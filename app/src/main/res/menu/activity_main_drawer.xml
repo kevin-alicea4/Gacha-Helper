@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home" />
+        <!--item
+            android:id="@+id/ffbe_main_menu"
+            android:title="Final Fantasy Brave Exvius" /-->
+        <item
+            android:id="@+id/ffbe_gacha"
+            android:title="FFBE Gacha Simulator" />
+        <item
+            android:id="@+id/ffbe_char"
+            android:title="FFBE Character List" />
+        <!--item
+            android:id="@+id/bbs_main_menu"
+            android:title=" Bleach Brave Souls" /-->
+        <item
+            android:id="@+id/bbs_gacha"
+            android:title=" BBS Gacha Simulator" />
+        <item
+            android:id="@+id/bbs_char"
+            android:title=" BBS Character List" />
+
+
+    </group>
+
+
+</menu>
