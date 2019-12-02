@@ -1,1 +1,2 @@
 # Gacha-Helper
+Gacha helper is an Android mobile application made in Java. Its purpose is being a companion app to mobile gacha games. The app currently has features for Bleach Brave Souls and Final Fantasy Brave Exvius.  The features it currently supports is a gacha simulator and character list with stats for both games. Specific banners have been selected for the gacha simulator. The app is currently not being maintained, so not all characters of these games are included.
